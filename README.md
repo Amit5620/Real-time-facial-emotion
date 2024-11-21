@@ -12,8 +12,7 @@ The Real-Time Facial Emotion Recognition System is a Python-based project that u
 6. The system employs the Haar Cascade Classifier, loaded from the `haarcascade_frontalface_default.xml` file, to detect faces in the video frames.
 7. The code continuously captures video frames from the camera source, making real-time processing possible.
 8. The detected faces are passed through the emotion detection model to classify the emotion, and the corresponding emotion label is overlaid on the video frame.
-9. Here is the sample output. For all emotion outputs you can check out `OutputScreenshots` folder. 
-![Screenshot (273)](https://github.com/SHAIK-AFSANA/facialemotionrecognizerinrealtime/assets/146961917/6b473e7a-a0b1-4875-afed-8f3dc24b54b9)
+
 
 ## Prerequisites
 * Python
