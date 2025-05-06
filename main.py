@@ -7,6 +7,7 @@ from keras.preprocessing import image
 import os
 import cv2
 import numpy as np
+# Python Version 3.9
 
 face_classifier = cv2.CascadeClassifier(r'haarcascade_frontalface_default.xml')
 classifier =load_model(r'model.h5')
